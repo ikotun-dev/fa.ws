@@ -1,4 +1,4 @@
-# FastAPI WebSocket App
+# FastAPI WebSocket API
 
 ## Introduction
 This project is a FastAPI-based WebSocket app that allows real-time communication between clients and the server using WebSocket protocol.
